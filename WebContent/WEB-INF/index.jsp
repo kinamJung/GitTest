@@ -7,6 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
+second
+third
 four
 </body>
 </html>
