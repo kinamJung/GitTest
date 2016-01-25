@@ -8,5 +8,6 @@
 </head>
 <body>
 init
+commit
 </body>
 </html>
