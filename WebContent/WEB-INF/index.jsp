@@ -10,7 +10,7 @@
 commi
 third
 four
-commi
+commit
 a
 amend
 </body>
