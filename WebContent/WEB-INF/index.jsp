@@ -7,9 +7,13 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 commi
 third
 four
+=======
+
+>>>>>>> parent of eb37110... init merge
 commit
 a
 amend
